@@ -1,0 +1,25 @@
+{
+  "name": "electron-sample",
+  "version": "1.0.0",
+  "description": "一個 Electron app 範本",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Shisha",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shishamou/electron-sample.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "bugs": {
+    "url": "https://github.com/Shishamou/electron-sample/issues"
+  },
+  "homepage": "https://github.com/Shishamou/electron-sample#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.1.0"
+  }
+}
